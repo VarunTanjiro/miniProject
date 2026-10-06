@@ -1,6 +1,6 @@
 import cv2
 import mediapipe as mp
-import random as rn 
+
 
 # MediaPipe classes
 BaseOptions = mp.tasks.BaseOptions
